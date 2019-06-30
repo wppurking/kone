@@ -8,11 +8,11 @@ package k1
 import (
 	"net"
 
-	. "github.com/xjdrew/kone/internal"
+	"github.com/xjdrew/kone/klog"
 	"github.com/xjdrew/kone/tcpip"
 )
 
-var logger = GetLogger()
+var logger = klog.GetLogger()
 
 type One struct {
 	// tun ip

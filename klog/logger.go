@@ -3,7 +3,7 @@
 //   author: xjdrew
 //
 
-package kone
+package klog
 
 import (
 	"os"
