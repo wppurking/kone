@@ -10,7 +10,8 @@ import (
 	"fmt"
 	"os"
 
-	. "github.com/xjdrew/kone/internal"
+	. "github.com/xjdrew/kone/klog"
+
 	"github.com/xjdrew/kone/k1"
 )
 
